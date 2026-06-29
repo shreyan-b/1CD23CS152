@@ -1,3 +1,3 @@
 export default function App() {
-  return "Notifications App";
+  return "hello there";
 }
